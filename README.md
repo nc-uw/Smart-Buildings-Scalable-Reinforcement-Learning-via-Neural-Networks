@@ -24,16 +24,7 @@ CAISO (California ISO) Demand Response Guide: "A Demand Response Provider (DRP) 
 
 Aggregators are third party service providers that sell combined demand load reductions to utilities and ISO. They provide a platform for a large-scale consumer participation in Demand Response programs that can be centralized and easily coordinated with the utilities and ISO. 
 
-  References:
-    1. www.caiso.com/Documents/DemandResponseUserGuide.pdf
-    
-    
-    2. https://energy.mit.edu/wp-content/uploads/2016/01/CEEPR_WP_2016-001.pdf
-    
-    
-    3. https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10594514
-    
-    
+
 # 3. Electricity Markets:
 
 
