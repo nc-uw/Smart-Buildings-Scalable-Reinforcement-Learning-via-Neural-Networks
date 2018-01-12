@@ -1,23 +1,35 @@
 # Smart-Buildings-Scalable-Reinforcement-Learning-via-Neural-Networks
 
-#1. Introduction:
+# 1. Introduction:
+
+
 Demand Response is the ability of the energy consumers to modify their load consumption behavior as a reaction to changes in electricity prices. Recent trends in the spiraling rate of consumption (obtain data) of electricity has placed additional stress on utilities to balance supply with demand. In peak periods, generators with a high marginal cost of production have their bids accepted to clear the forecasted demand, which results in increase in electricity prices during this period. In some regions, such as California, the rate of change of demand in peak periods is so severe (the infamous duck curve) that generating units often produce more power than necessary in non-peak periods as a consequence of limits on their ramp rates. Demand response programs encourages consumers to reduce or shift their electricity usage in peak hours to non-peak hours where the prices are lower. The consumers are benefited by lower tariffs, and the utilities can ensure productive utilization of resources, maintain stability of the grid, prevent outages, and reduce harmful emissions that often occur due to the commitment of expensive, inefficient, and high-polluting generating units.
 
 To add:
-% -Objectives of DR
-% -Impact of DR
-% -Current position in 2017
+%Objectives of DR
 
 
-#2. Aggregators:
+%Impact of DR
+
+
+%Current position in 2017
+
+
+# 2. Aggregators:
+
+
 CAISO (California ISO) Demand Response Guide: "A Demand Response Provider (DRP) with the ability to aggregate customers capable of reducing their electric demand (load) can participate in the ISO day-ahead, real-time and ancillary services markets as a Proxy Demand Resource (PDR) or Reliability Demand Response Resource (RDRR)."
 
 Aggregators are third party service providers that sell combined demand load reductions to utilities and ISO. They provide a platform for a large-scale consumer participation in Demand Response programs that can be centralized and easily coordinated with the utilities and ISO. 
 
   References:
     1. www.caiso.com/Documents/DemandResponseUserGuide.pdf
+    
+    
     2. https://energy.mit.edu/wp-content/uploads/2016/01/CEEPR_WP_2016-001.pdf
-    https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10594514
+    
+    
+    3.     https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10594514
     
     
 3. Electricity Markets:
