@@ -1,4 +1,4 @@
-# Scalable Reinforcement Learning solutions via Neural-Networks for Smart Grid applications
+# Scalable Reinforcement Learning solutions via Neural Networks for Smart Grid applications
 
 # 1. Introduction:
 
